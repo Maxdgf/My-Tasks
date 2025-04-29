@@ -1,3 +1,5 @@
+![Logo](app_icon.png)
+
 # My-Tasks
 
 ### A simple and intuitive case and task planning application
@@ -14,8 +16,6 @@ My-Tasks is an intuitive Android application designed to help you organize and s
 - Delete lists: Remove one lists or delete all lists in a single action.
 - View lists: Explore your lists in a separate window for a focused experience.
 - Search System: Quickly find task lists by title with our efficient search feature.
-
-![App Icon](app_icon.png)
 
 ## Implementation
 
