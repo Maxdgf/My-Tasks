@@ -13,7 +13,7 @@ My-Tasks is an intuitive Android application designed to help you organize and s
 
 | Description      | Screenshot                    |
 |------------------|-------------------------------|
-| Main Screen    | ![Main Screen](appScreenShots/main_screen.jpg) |
+| Main Screen    | <img src="appScreenShots/main_screen.jpg" width="300"> |
 | Task Creation Screen     | ![Task Creation Screen](appScreenShots/task_creation.jpg)         |
 | Task Completion Screen   | ![Task Completion Screen](appScreenShots/task_checking.jpg)           |
 
