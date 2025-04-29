@@ -17,6 +17,10 @@ My-Tasks is an intuitive Android application designed to help you organize and s
 | Task Creation Screen     | <img src="appScreenShots/task_creation.jpg" width="200"> |
 | Task Completion Screen   | <img src="appScreenShots/task_checking.jpg" width="200"> |
 
+## 🌎App localization:
+
+App supports 🇷🇺Russian and 🇬🇧English languages.
+
 # 🦾Additional Functionality
 
 - Delete lists: Remove one lists or delete all lists in a single action.
