@@ -19,7 +19,7 @@ My-Tasks is an intuitive Android application designed to help you organize and s
 
 ## 🌎App localization:
 
-App supports 🇷🇺Russian and 🇬🇧English languages.
+App supports Russian and English languages.
 
 # 🦾Additional Functionality
 
